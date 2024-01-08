@@ -1,2 +1,2 @@
 # BantuBitcoin
-Bantu Bitcoin
+Bitcoin-only education podcast in Bemba language and English from rural Zambia.
