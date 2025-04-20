@@ -4,12 +4,13 @@ Hash: SHA256
 This is Bantu Bitcoin's Warrant Canary.
 This file can be accessed at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canary.txt 
 
+An archive of former canaries can be found at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canaries
 
 ***********
 STATEMENTS
 ***********
 
- * The issue date of this canary is: Tues. 21, January, 2025. (See PROOF OF DATE below.)
+ * The issue date of this canary is: Sun. 20, Apr. 2025. (See PROOF OF DATE below.)
 
  * Bantu Bitcoin's main signing key is used to sign this canary:
 
@@ -32,16 +33,16 @@ LIBERTY CANARY
 
 5atoshiNakamoto is not under duress of any government or organization.
 
-The podcast, Bantu Bitcoin, is hosted for free in coordination with Anita Posch of Bitcoin for Fairness at BTCpodcasting.com. 
+The podcast, Bantu Bitcoin, is hosted free at https://BantuBitcoin.substack.com. 
 
-5atoshiNakamoto is NOT a site-wide administrator of BTCpodcasting.com.
+5atoshiNakamoto is NOT a site-wide administrator of https://substack.com.
 
 
 ***************
 WARRANT CANARY
 ***************
 
-No warrants have ever been served to Bantu Bitcoin (e.g. to hand out private signing keys, or to introduce backdoors to any project in which I'm involved, in so far as I know), nor have any searches or seizures taken place of our own space.
+No warrants have ever been served to Bantu Bitcoin (e.g. to hand out private signing keys, or to introduce backdoors to any project in which the podcast is involved, in so far as the podcast knows), nor have any searches or seizures taken place of the podcast's own space.
 
 Bantu Bitcoin has not received:
 
@@ -67,9 +68,11 @@ A gag order refers to any legal order enforceable in Bantu Bitcoin's jurisdictio
 DEADLINE UPDATE
 ****************
 
-The next canary statement is planned to be published within 3 months, before 21, April, 2025.
+The next canary statement is planned to be published within 3 months, before 20, Jul. 2025.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
+
+Once again, an archive of former canaries can be found at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canaries 
 
 
 **************
@@ -85,14 +88,14 @@ PROOF OF DATE is currently best demonstrated utilizing a combination of two(2) t
 Thus, a narrow window between these two results is the only plausible date and time for the creation and timestamped signature of this canary.
 
 (1) A very recent Bitcoin block hash:
-00000000000000000000b1e5a29dd790042df2f1d53126b0c63298ed0593cd8c
+0000000000000000000015993a658854eb74e01148b21a044c5199ebebf506a9
 
-Block: 880307
+Block: 893233
 
 (You can easily view evidence of this Bitcoin block hash at a website like:
-https://mempool.space/block/00000000000000000000b1e5a29dd790042df2f1d53126b0c63298ed0593cd8c)
+https://mempool.space/block/0000000000000000000015993a658854eb74e01148b21a044c5199ebebf506a9)
 
-(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 880307 from Step 1.
+(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 893233 from Step 1.
 
 Download the two files at:
 * https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canary.txt.ots
@@ -100,9 +103,9 @@ Download the two files at:
 
 Then at https://OpenTimestamps.org, first drag (or otherwise, 'upload') the .txt.ots proof file into the STAMP & VERIFY box, followed by the .txt stamped file into the box below it.
 
-The files should both display a matching hash and the Bitcoin block height and time in which this hash was included.
+If all checks out, the files will both display a matching hash and the Bitcoin block height and time in which this hash was included.
 
-Compare this Bitcoin block height and time to Block 880307. Each block represents ~10 minutes.
+Compare this Bitcoin block height and time to Block 893233. Each difference in block height represents the passage of ~10 minutes.
 
 
 ********************
@@ -117,23 +120,22 @@ DISCLAIMERS & NOTES
 
 (4) Failure to update this canary does not necessarily mean Bantu Bitcoin has received a gag order; nor is not updating it—or omitting anything—an attempt to communicate anything to anyone. Frankly, it's also entirely plausible that 5atoshiNakamoto could have become otherwise incapacitated or lazy with his or her systems management of this website, leaving this canary to expire, but let's hope not. Have you asked him or her? This canary serves only to periodically confirm certain facts as long as they are presently true.
 
-(5) Compromise of the associated Github account, 5atoshiNakamoto, or PGP private key remains always a remote possibility.
+(5) Compromise of the associated Github account, 5atoshiNakamoto, or Bantu Bitcoin's PGP private key remains always a remote possibility.
 
 (6) Doing the best we can.
-
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEGPIqkkiM0b3iQRSQ1RRDt5DT3a8FAmeQlSQACgkQ1RRDt5DT
-3a8nmw/+Pj5yn1cj8rn/eze5/IDKDnelUsx3RWy/8w/PACSd7dB1JC5a0gZ5e1Ss
-IDgwvxuUjj3ZDzCqY37yJ82wsPBWcNRHZEn7/Di2Czfr1tyc288/E3qJST7vaeUD
-Ndk+JNAO4wV1QkztoMWjg0rK9DJB6WXs83izyRNmY1LKcwIuukc/S4ZRMObvECf1
-10BvQ4mmfP7IiTOyC2UfUbH6aGRKXjDKRK6cqzeBlnaGHUvkwx1zQlBy1bhW9Tdu
-HXNNd5jxHpOA+RHHhNeMEKNC+VSbqcmJVwWUKqMO30AyfBDVZO/kjZmfOvADf3xa
-vIIJ4EMPWoZhn6kUWYLlS8sl/qmDpEq4NLSTUj+NpIMMirWeTpb2oeX9MVDkM8Qe
-Gnj3vk7kaNo80QvSKzTjq5li1mxOVLhJmbqVSZNVSysOMj2ivE82EY6opNDzzaeE
-YFRtqckc00wwQemOwqsK0gcbiV4t/Vz/ZLT+G/Df5A4zUsVs1kojLVpPBVCvOlj/
-3qAoMUZmM0vYP3T4E6ut1rBFhuReS3zBF8wSHJWeMwXsaNcx190IlyQvLUcyu7Nv
-EhPnibgpmATAtC2ApNvqmWRt7mQvKMJlelVlnCZZy6/ctfGcoks9aOawbyChc4le
-k4WQ/Ue1VbQQZepqlOZNemzYNp8eHHrorlOP0LxzLCGXcv/OUFo=
-=QTiU
+iQIzBAEBCAAdFiEEGPIqkkiM0b3iQRSQ1RRDt5DT3a8FAmgEuxUACgkQ1RRDt5DT
+3a/b0g/+PImZ5Cb6cNFnUIndyndNMzR24s5QHw4V9U1ku5y6iuAFgu8kN1SzQTeV
++yj514FcTLQnG0njebQiiDe6oYUIJQAK6BbroAx6Z4btT997Q1up50PKVKXP59pP
+ynzKhJ7fICy1N997Wfp9jii2bL5oSDlbdgxNGdveApZMRm5ftWubnb0yKRBR7QLJ
+Rup5IF7RlHALEqI2MY1S1MnLOS5UFBbI0lYjyrKTtllmbgBjE3WjsRDxVrIrJGa+
+Ke0mkGAPmHnxwLlHxZ9KStN+YWEbetGatqhCfUhVQzTO9N7ng7UMuvwJ7SBGaXt+
+gTJAuK8Fo6of8BADDUXfmSJeV3k/CbCNOa0uV8QPt+YVAyEhbLYOsi6i/gf2w42e
+FuRXO36+IqPk3xcEO+ame2eAne2ZuBle8K9Va8E/uuit6xi0S3DsPQKk1jkuZ57t
+BxSY1QCu7UfnOXbnySFg0w217NsTuUr1bCPgU6Dg3ALI/XfJTufRAQQxjxYXSjpe
+8PlM8JVSLQeGE/v9M3nYi07/dvUY11Urj4AwqPRdhiPK+dzobmuXS7ORbJk9Ol70
+s9GC/RTqkQYm0WLLtANHx1yMpgQWxQpUjSuYOPIjdnU5U/IRiBPTO/lLPJk4ITSb
+hx+5QBKMg9MTYPQeNSwDpdxQyqqKVj0mM1l+7Evjr8eyB1nO5jI=
+=pnn4
 -----END PGP SIGNATURE-----
