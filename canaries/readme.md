@@ -18,9 +18,9 @@ Bantu Bitcoin's most current warrant canary can be found at [https://5atoshiNaka
 
 | DD-MM-YYYY | .txt | .txt.ots | cross-over.txt | cross-over.txt.ots
 | --- | --- | --- | --- | --- |
-| 20-07-2025 | [2025-07-20.txt](./2025-07-20.txt) | [2025-07-20.txt.ots](./2025-07-20.txt.ots) | [cross-over.txt](./cross-over.txt) | [cross-over.txt.ots](./cross-over.txt.ots) |
-| 20-04-2025 | [2025-04-20.txt](./2025-04-20.txt) | [2025-04-20.txt.ots](./2025-04-20.txt.ots) | | |
-| 21-01-2025 | [2025-01-21.txt](./2025-01-21.txt) | [2025-01-21.txt.ots](./2025-01-21.txt.ots) | | | 
+| 2025-07-20 | [2025-07-20.txt](./2025-07-20.txt) | [2025-07-20.txt.ots](./2025-07-20.txt.ots) | [cross-over.txt](./cross-over.txt) | [cross-over.txt.ots](./cross-over.txt.ots) |
+| 2025-04-20 | [2025-04-20.txt](./2025-04-20.txt) | [2025-04-20.txt.ots](./2025-04-20.txt.ots) | | |
+| 2025-01-21 | [2025-01-21.txt](./2025-01-21.txt) | [2025-01-21.txt.ots](./2025-01-21.txt.ots) | | | 
 
 ### 2024
 
